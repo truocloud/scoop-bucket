@@ -5,6 +5,6 @@ scoop bucket add truocloud https://github.com/truocloud/scoop-bucket
 scoop install truo
 ```
 
-CLI de la API publica de TruoCloud. Documentacion: https://docs.truo.cloud — codigo: https://github.com/truocloud/truo-devkit
+The `truo` CLI for the TruoCloud public API. Docs: https://docs.truo.cloud — source: https://github.com/truocloud/truo-devkit
 
-El manifiesto (`bucket/truo.json`) lo genera el workflow de release de `truo-devkit`; no se edita a mano.
+The manifest (`bucket/truo.json`) is generated and updated by the `truo-devkit` release workflow; do not edit it by hand.
