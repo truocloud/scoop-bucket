@@ -1,12 +1,12 @@
 {
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "TruoCloud CLI: VPS, DNS, databases, containers and load balancers",
   "homepage": "https://docs.truo.cloud/cli",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/truocloud/truo-devkit/releases/download/v0.1.1/truo-windows-x64.exe#/truo.exe",
-      "hash": "b209de7681d5503f8a2f438df1dc3353b1bf7766028b5646fea61b02870a60a9"
+      "url": "https://github.com/truocloud/truo-devkit/releases/download/v0.2.0/truo-windows-x64.exe#/truo.exe",
+      "hash": "c4292a51f1cb892907d401f7df764fa9c567bb4e2e5ce27455f7a3c564aa391c"
     }
   },
   "bin": "truo.exe",
